@@ -1,0 +1,8 @@
+La inteligencia artificial es una herramienta poderosa para aprender.
+En esta clase construiremos un modelo de lenguaje desde cero.
+Comenzaremos con un modelo Bigram, que aprende transiciones entre caracteres.
+Luego entrenaremos un pequeño Transformer (tipo GPT) con auto-atención enmascarada.
+El objetivo es entender los bloques fundamentales y experimentar con generación de texto.
+Puedes modificar este archivo para crear tu propio dataset en español.
+Recuerda: más datos y más entrenamiento suelen mejorar la calidad del texto generado.
+
