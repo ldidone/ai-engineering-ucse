@@ -1,0 +1,77 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Build artifacts
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.conda/
+.Python
+
+# Environment/config files
+.env
+.env.*
+*.env
+.python-version
+
+# Testing / Coverage / Tooling caches
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.hypothesis/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.history/
+
+# Logs
+logs/
+*.log
+
+# OS noise
+Thumbs.db
+
+# Machine learning artifacts
+CLASS_2/checkpoints/
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Data (keep tiny sample tracked)
+CLASS_2/data/
+!CLASS_2/data/tiny_spanish.txt

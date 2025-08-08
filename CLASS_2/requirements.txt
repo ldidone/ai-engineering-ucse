@@ -1,0 +1,3 @@
+# Instala PyTorch por separado (ver README)
+tqdm>=4.65.0
+
